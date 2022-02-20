@@ -1,0 +1,8 @@
+bk 30
+fr 20
+bk 40
+fr 10
+bk 50
+pf
+in 10 15
+pf
